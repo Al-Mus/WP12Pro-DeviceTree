@@ -1,0 +1,4 @@
+on boot
+    mount_all
+    setprop ro.secure 0
+    start recovery

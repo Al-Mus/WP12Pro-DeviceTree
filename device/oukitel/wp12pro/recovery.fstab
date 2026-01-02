@@ -1,0 +1,3 @@
+/boot           emmc   /boot           defaults
+/system         emmc   /super         defaults
+/vendor         emmc   /super         defaults
